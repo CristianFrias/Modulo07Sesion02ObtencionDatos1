@@ -1,0 +1,16 @@
+{
+  "name": "modulo07sesion02obtenciondatos1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Cristián Frías",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "pg": "^8.13.1"
+  }
+}
